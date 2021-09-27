@@ -25,17 +25,5 @@
 /input_images
 /__pycache__
 .env
-/stickers
-app.py
-CopyCenterBot.py
-loader.py
 users_key_files.db
-settings.py
-/data
-/filters
-/handlers
-/keyboards
-/middlewares
-/states
-/utils
 
