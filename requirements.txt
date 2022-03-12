@@ -1,7 +1,7 @@
 reportlab==3.5.68
 img2pdf==0.4.1
 pdfkit==0.6.1
-Pillow==8.3.2
+Pillow==9.0.1
 python-dotenv==0.18.0
 argparse==1.4.0
 aiogram==2.14.3
