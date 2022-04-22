@@ -18,6 +18,6 @@ typing-extensions==3.10.0.0
 yarl==1.6.3
 rethinkdb==2.4.8
 numpy==1.21.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 emoji==1.4.2
 dadata==20.7.0
